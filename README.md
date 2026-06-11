@@ -1,4 +1,4 @@
-CSARCH2 Case Study V - Group 2
+CSARCH2 Case Study 1 - Group 2
 # Title: Made in Asia: Contributions of East Asia in Computing
 
 **Group Roster:**
