@@ -26,6 +26,14 @@ CSARCH2 Case Study 1 - Group 2
   Through this topic, the group plans on shining light on the uncredited inventions done within countries from East Asia. It serves to prove that the computing world is as much an East Asian story as it is a Western one; it showcases that the technological world and how we deal with our lives each and every day would not be the same without these innovations.
 
 **Tech Stack Plan:**
+- Astro 6
+- Node.js 26
+- React
+- Markdown Extended (.mdx)
+- * PLEASE ADD, NOT SURE WHAT WE'LL USE *
+
 
   **Interactive Element:**
-    1. 
+    1. Interactive Map - An interactive and selectable map of the East Asian region will be displayed on the page, allowing the user to click and select any part of the country as long as it is within its border, making it a selectable interface element. Clicking the country would update another box layout with the country's name, information, and their hardware and architectural contributions.
+ 
+    2. Trivia Game - 
