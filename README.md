@@ -34,8 +34,10 @@ CSARCH2 Case Study 1 - Group 2
 
 
 **Interactive Element:**
-    1. Interactive Map - An interactive and selectable map of the East Asian region will be displayed on the page, allowing the user to click and select any part of the country as long as it is within its border, making it a selectable interface element. Clicking the country would update another box layout with the country's name, information, and its hardware and architectural contributions.
-    2. Trivia Game - A trivia question or fun fact about the country's computing that the user can answer. 
+
+1. Interactive Map - An interactive and selectable map of the East Asian region will be displayed on the page, allowing the user to click and select any part of the country as long as it is within its border, making it a selectable interface element. Clicking the country would update another box layout with the country's name, information, and its hardware and architectural contributions.
+    
+2. Trivia Game - A trivia question or fun fact about the country's computing that the user can answer. 
 
 **Sample Page View:**
 <img width="418" height="354" alt="Screenshot 2026-06-13 at 12 17 38 AM" src="https://github.com/user-attachments/assets/e8f7e7ed-96f2-4d4c-a941-fbe4da21710c" />
